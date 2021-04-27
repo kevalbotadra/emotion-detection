@@ -6,8 +6,7 @@ Emotion is one of the most confusing and complex part of humans and to this day 
 
 ## 💻 What it does
 
-Here are some of our final results!:
-![](https://cdn.discordapp.com/attachments/796218966729162784/802984948784431104/unknown.png)
+
 
 - Open up Real Time Emotion Detection and the computer will start getting a recording of your face via the webcam
 - The webcam video stream will be broken up frame by frame and each frame will detect the amount of faces and where each face is located
@@ -22,6 +21,8 @@ Here are some of our final results!:
 3. Next, we had to create a model from scratch using Tensorflow Keras.
 4. Finally, we trained our model and created the video functions using opencv :)
 
+Here are some of our mid-production results!:
+![](https://cdn.discordapp.com/attachments/796218966729162784/802984948784431104/unknown.png)
 
 If you want to check out our [Google Colab](https://colab.research.google.com/drive/1Aq_fdZ4jZLoxh5_f7GJ5fohazRqF8QVq?usp=sharing), here it is!
 
